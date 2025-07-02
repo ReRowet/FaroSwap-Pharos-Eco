@@ -393,7 +393,7 @@ fi
 while true; do
     clear
     echo -e "${CYAN}===============================${NC}"
-    echo -e "${CYAN}   FAROSWAP BY MOARU      ${NC}"
+    echo -e "${CYAN}       FAROSWAP BY MOARU       ${NC}"
     echo -e "${CYAN}===============================${NC}"
     echo -e "Please choose an option:"
     echo -e "1. ${GREEN}Install Dependencies${NC} (Run this first)"
